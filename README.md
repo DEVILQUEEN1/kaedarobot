@@ -61,10 +61,6 @@ For starters click on this button
 * [Discussion](https://telegram.dog/)
 * [Second Group](https://telegram.dog/)
 
-## Credits, and Thanks to 
-*   [AGASTYA](https://telegram.dog/official_smile_of_your_face)
-
-
 ### Configuration
 
 There are two possible ways of configuring your bot: a config.py file, or ENV variables.
@@ -173,5 +169,9 @@ You should now be able to build your database URI. This will be:
 
 Replace sqldbtype with whichever db youre using (eg postgres, mysql, sqllite, etc)
 repeat for your username, password, hostname (localhost?), port (5432?), and db name.
+
+## Credits, and Thanks to 
+*   [AGASTYA](https://telegram.dog/official_smile_of_your_face)
+
 
 

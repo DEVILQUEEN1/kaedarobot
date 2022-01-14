@@ -2,15 +2,15 @@
   <img src="https://telegra.ph/file/0474e55f788e2a690ac97.jpg">
 </p>
 
-# Nicky Robot
+# kaeda robot
 
 ### Telegram Group
 <p align="left">
-<a href="https://t.me/OFFICIAL_OLYMPUS" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/nicky_robot" alt="nicky_robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-nicky_robot" /> </a>
-* Support Channel: <a  href="https://t.me/nicky_log" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-nicky_log%20Log%20Channel-9cf" /> </a>
+* Bot Link:  <a href="http://t.me/nicky_robot" alt="kaeda_robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-kaeda_robot" /> </a>
+* Support Channel: <a  href="https://t.me/" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-kaeda_logs%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
 
@@ -20,7 +20,7 @@ All that is needed is that your .py file is in the modules folder.
 
 To add commands, make sure to import the dispatcher via
 
-from NickyRobot import dispatcher.
+from kaeda_robot import dispatcher.
 
 You can then add commands using the usual
 
@@ -40,26 +40,26 @@ through the /stats command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-python3 -m NickyRobot
+python3 -m kaeda_robot
 
 You can use nssm to install the bot as service on windows and set it to restart on /gitpull 
 Make sure to edit the start and restart bats to your needs. 
 Note: the restart bat requires that User account control be disabled.
 
 For queries or any issues regarding the bot please open an issue ticket or visit us at <p align="left">
-<a href="https://t.me/official_friendship" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ## How to setup on Heroku 
 For starters click on this button 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/subhodip420/NICKY-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://https://github.com/subhodip420/kaedarobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Our Telegram Channel and Group
 
-* [Support](https://telegram.dog/OFFICIAL_OLYMPUS)
-* [Discussion](https://telegram.dog/OFFICIAL_OLYMPUS)
-* [Second Group](https://telegram.dog/nicky_log)
+* [Support](https://telegram.dog/)
+* [Discussion](https://telegram.dog/)
+* [Second Group](https://telegram.dog/)
 
 ## Credits, and Thanks to 
 *   [AGASTYA](https://telegram.dog/official_smile_of_your_face)

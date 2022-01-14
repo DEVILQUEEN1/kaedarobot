@@ -10,7 +10,7 @@
 
 ### Bot And Channel 
 * Bot Link:  <a href="http://t.me/nicky_robot" alt="kaeda_robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-kaeda_robot" /> </a>
-* Support Channel: <a  href="https://t.me/" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-kaeda_logs%20Log%20Channel-9cf" /> </a>
+* Support Channel: <a  href="https://t.me/" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-kaeda%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
 
